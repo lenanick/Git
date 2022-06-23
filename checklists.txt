@@ -1,3 +1,7 @@
-1. Title
-2. Discription
-3. Author
+ID
+Summary
+Section
+Enviroment
+Expected Result
+Status
+Bug report link
